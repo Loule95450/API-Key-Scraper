@@ -2,4 +2,4 @@ docopt==0.6.2
 hyperlink==21.0.0
 idna==3.3
 unidecode==1.1.1
-urllib3==1.26.8
+urllib3==1.26.18
